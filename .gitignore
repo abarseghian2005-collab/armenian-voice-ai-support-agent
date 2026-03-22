@@ -1,0 +1,9 @@
+.env
+db/
+__pycache__/
+*.pyc
+.idea/
+debug_raw_answer.txt
+livekit-server.exe
+.venv/
+venv/
