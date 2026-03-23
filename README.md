@@ -94,3 +94,15 @@ The assistant:
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+## Setup
+
+1. Install dependencies:
+pip install -r requirements.txt
+
+2. Create `.env` file and add your API keys
+
+3. Load data:
+python reload_db.py
+
+4. Run the agent:
+python agent.py
